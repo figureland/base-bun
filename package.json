@@ -1,5 +1,5 @@
 {
-  "name": "@figureland/base",
+  "name": "@figureland/base-bun",
   "version": "0.0.0",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -16,7 +16,7 @@
       "import": "./dist/entry.js"
     }
   },
-  "description": "Base template for Figure Typescript projects",
+  "description": "Base template for bun projects",
   "scripts": {
     "build": "bun run scripts/build.ts",
     "dev": "bun --watch scripts/dev.ts",
@@ -44,13 +44,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/figureland/base.git"
+    "url": "git+https://github.com/figureland/base-bun.git"
   },
   "author": "Figure Systems",
   "bugs": {
-    "url": "https://github.com/figureland/base"
+    "url": "https://github.com/figureland/base-bun/issues"
   },
-  "homepage": "https://github.com/figureland/base#readme",
+  "homepage": "https://github.com/figureland/base-bun#readme",
   "prettier": {
     "$schema": "https://json.schemastore.org/prettierrc",
     "semi": false,
