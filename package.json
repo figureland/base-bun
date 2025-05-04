@@ -34,9 +34,9 @@
   "devDependencies": {
     "@commitlint/cli": "^19.8.0",
     "@commitlint/config-conventional": "^19.8.0",
-    "@types/bun": "^1.2.10",
+    "@types/bun": "^1.2.11",
     "bun-plugin-dts": "^0.2.4",
-    "eslint": "^9.25.1",
+    "eslint": "^9.26.0",
     "husky": "^9.1.7",
     "prettier": "^3.5.3",
     "typescript": "^5.8.3",
